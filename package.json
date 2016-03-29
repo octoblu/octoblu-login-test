@@ -1,0 +1,22 @@
+{
+  "name": "OctobluUptime",
+  "version": "1.0.0",
+  "description": "Monitor Octoblu for design page uptime and flow working-ness.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.12.4",
+    "httpdispatcher": "^0.4.0",
+    "nodemailer": "^1.3.4",
+    "request": "^2.58.0",
+    "body-parser": "^1.13.1",
+    "cookie-parser": "^1.3.5",
+    "express-session": "^1.11.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

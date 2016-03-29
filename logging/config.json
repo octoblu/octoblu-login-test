@@ -1,0 +1,21 @@
+{
+  "notifyEmail": "example.notification.sending.email@gmail.com",
+  "emailPass": "examplepassword1234",
+  "toEmail": "example.notification.receiving.email@gmail.com",
+  "flows": [
+    {
+      "name": "Octoblu Old Flow",
+      "url": "https://triggers.octoblu.com/flows/25a06ad8-07af-4a35-9bf0-2b0cce0d6cc2/triggers/96942660-2b4b-11e5-8d9c-ed014cd347f2"
+    },
+    {
+      "name": "Octoblu Beta Flow",
+      "url": "https://triggers.octoblu.com/flows/fb859571-24ed-47db-988f-f6eac36c686b/triggers/f6376a10-72af-11e5-ab88-4990a95bcaa0"
+    }
+  ],
+  "pingWaitTime": "2",
+  "timeOuts": "1",
+  "timeOutSeconds": "110",
+  "octobluUser": "example.user@gmail.com",
+  "octobluPass": "examplepassword1234"
+}
+
